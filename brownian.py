@@ -22,6 +22,6 @@ plt.legend(np.round(sigma, 2))
 plt.xlabel("$t$")
 plt.ylabel("$x$")
 plt.title(
-    "Realizations of Geometric Brownian Motion with different variances\n $\mu=1$"
+    "Realisations of Geometric Brownian Motion with different variances\n $\mu=1$"
 )
 plt.show()
